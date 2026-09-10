@@ -52,7 +52,7 @@ Download the following dataset components from Kaggle:
 - **Tile Datasets (`TILES/` & `TILES_TF/`):** Cutout image patches and tensor representations.
 - **Catalogs (`.parquet`):** `cleaned_catalog.parquet` and `cleaned_catalog_with_blendedness_truth.parquet`.
 
-👉 **[Download Dataset on Kaggle](https://www.kaggle.com/datasets/YOUR_KAGGLE_USERNAME/galaxy-deblending-processed-dataset)** *(Replace with your published Kaggle link)*
+👉 **[Download Dataset on Kaggle](https://www.kaggle.com/datasets/rohitwankhede123/galaxy-deblending-dataset)** 
 
 ### 2. Local Directory Placement
 
