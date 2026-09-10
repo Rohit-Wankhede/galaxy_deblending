@@ -1,0 +1,20 @@
+# Virtual Environment & Python cache
+deblend_env/
+*.pyc
+__pycache__/
+*.zip
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Raw & Processed Datasets (To be hosted on Kaggle)
+RAW/
+PROCESSED/TILES/
+PROCESSED/TILES_TF/
+PROCESSED/cleaned_catalog.parquet
+PROCESSED/cleaned_catalog_with_blendedness_truth.parquet
+# Models & Weights
+MODELS/
+
+# OS-generated files
+.DS_Store
+Thumbs.db

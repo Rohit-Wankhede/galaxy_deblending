@@ -1,0 +1,16 @@
+numpy
+pandas
+astropy
+pyarrow
+scipy
+scikit-learn
+matplotlib
+torch
+torchvision
+fitsio
+photutils
+tensorflow
+tensorflow-probability
+tf-keras
+setuptools<81
+jupyterlab
